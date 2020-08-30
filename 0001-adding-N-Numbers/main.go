@@ -13,6 +13,7 @@ func main() {
 	// Checking argument.
 
 	// TODO: Check the number should be unsinged one.
+	// TODO: Create a test check.
 	if len(os.Args) != 2 {
 		fmt.Printf("How to run \n %s unsignedInt\n\n", os.Args[0])
 		fmt.Printf("Example: \n%s 5\n", os.Args[0])
