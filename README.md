@@ -1,8 +1,20 @@
 ## Git link
 
 ```
-https://github.com/Amitmund/algoInGo.git
+https://github.com/Amitmund/algoInGo
 ```
+
+
+##### RAW link:
+```
+https://raw.githubusercontent.com/Amitmund/algoInGo/master/README.md
+```
+
+
+```
+git clone https://github.com/Amitmund/algoInGo.git
+```
+
 
 ## …or create a new repository on the command line
 ```
