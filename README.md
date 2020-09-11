@@ -46,3 +46,8 @@ You can initialize this repository with code from a Subversion, Mercurial, or TF
 https://www.golangprograms.com/data-structure-and-algorithms.html
 
 http://go.algorithmexamples.com/
+
+### DNS check Related:
+
+https://www.golangprograms.com/find-dns-records-programmatically.html
+
