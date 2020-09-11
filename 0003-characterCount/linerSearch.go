@@ -1,4 +1,7 @@
 // Linear Search in Golang
+
+// https://www.golangprograms.com/data-structure-and-algorithms/golang-program-for-implementation-of-linear-search.html
+
 package main
 
 import "fmt"
