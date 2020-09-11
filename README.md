@@ -44,3 +44,5 @@ You can initialize this repository with code from a Subversion, Mercurial, or TF
 ## go algorithms
 
 https://www.golangprograms.com/data-structure-and-algorithms.html
+
+http://go.algorithmexamples.com/
